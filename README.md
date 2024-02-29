@@ -1,7 +1,7 @@
 # Pipeline-Freesurfer
 MRI Segmentation Pipeline with Freesurfer and Optional Processing with Petsurfer
 
-Requirements: Python3 (numpy, pandas, mahotas, nibabel, Dcm2niix); Freesurfer; FSL; ANTs; Nipype
+Requirements: Python3 (nipype, numpy, pandas, mahotas, nibabel, dcm2niix); Freesurfer; FSL; ANTs
 
 * 01: Convert T1 MRI from DICOM to Nifti and then to mgz format
 * 02: Execute Freesurfer's ReconAll for structural analysis
