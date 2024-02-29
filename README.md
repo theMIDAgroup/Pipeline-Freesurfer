@@ -1,5 +1,5 @@
 # Pipeline-Freesurfer
-MRI Segmentation Pipeline with Freesurfer and Optional Processing with Petsurfer
+MRI Segmentation Pipeline with Freesurfer and FDG-PET Optional Processing with Petsurfer
 
 Requirements: Python3 (nipype, numpy, pandas, mahotas, nibabel, dcm2niix); Freesurfer; FSL; ANTs
 
